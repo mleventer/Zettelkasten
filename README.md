@@ -9,7 +9,5 @@
   <li>Analog — manual operation. Components: boxes or wooden files to store the cards, index cards, and pen.</li>
   <li>Digital — make use of digital media to store notes and information, such as computer files or database. Notes can be stored on the cloud or locally on the computer.</li>
 </ol>
-<h4>More information on Zettelkasten, documentation, and Zettelkasten Glossary at:</h4>
-<a href="https://zk.open-ontology.org/2022/01/h0000-00-00-133059-0003.html" target="_blank">Zettelkasten About page</a>
-<h4>Visit our working prototype at:</h4>
+<h4>Visit our working prototype with more information, documentation, and a Zettelkasten Glossary at:</h4>
 <a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a>
