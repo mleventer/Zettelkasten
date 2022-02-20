@@ -1,4 +1,4 @@
-<div style="border 1px black;">
+<div>
 <h4>What is a Zettelkasten?</h4>
 <ol>
   <li>(German: "slip box", plural zettelkästen) is a note-taking and personal knowledge management system used in research and study.</li>
@@ -11,6 +11,6 @@
   <li>Digital — make use of digital media to store notes and information, such as computer files or database. Notes are stored on the cloud or locally on the computer's file system.</li>
 </ol>
 
-<h4>Visit our working prototype with more information, documentation, and a Zettelkasten Glossary at:</h4>
+<h4>Visit our working prototype with more information, documentation, and glossary at:</h4>
 <a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a>
 </div>
