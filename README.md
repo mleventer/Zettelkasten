@@ -9,5 +9,5 @@
   <li>Analog — manual operation. Components: boxes or wooden files to store the cards, index cards, and pen.</li>
   <li>Digital — make use of digital media to store notes and information, such as computer files or database. Notes can be stored on the cloud or locally on the computer.</li>
 </ol>
-<h4>Please visit our working prototype:</h4>
+<h4>Visit our working prototype at:</h4>
 <a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a>
