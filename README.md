@@ -4,5 +4,10 @@
   <li>Organized collection of connected and unconnected notes, references, and short pieces of information. Connections made by hyperlinks. Organization possible through the use of: numbering system, indexes to notes, and tags.</li>
   <li>Zettelkasten method is a method to improve: <b>learning</b>, <b>retention of written material (study)</b>, and <b>writing</b>.</li>
 </ol>
-<h4>Working prototype</h4>
+<h4>Types of Zettelkasten</h4>
+<ol>
+  <li>Analog — manual operation. Components: boxes or wooden files to store the cards, index cards, and pen.</li>
+  <li>Digital — make use of digital media to store notes and information, such as computer files or database. Notes can be stored on the cloud or locally on the computer.</li>
+</ol>
+<h4>Please visit our working prototype:</h4>
 <a href="https://zk.open-ontology.org/" target="_blank">https://zk.open-ontology.org/</a>
